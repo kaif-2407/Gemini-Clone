@@ -1,3 +1,41 @@
+# 🌟 Gemini Clone
+
+A **Gemini-like AI Assistant** built using **React**, **Tailwind CSS**, and the **Gemini API** by Google.  
+This project simulates the experience of Google's Gemini chatbot, allowing users to interact with an AI through a sleek, responsive web interface.
+
+---
+
+## 🚀 Live Demo
+
+🔗 Live-preview (https://gemini-clone-kaif-2407.netlify.app/)
+
+---
+
+## 🧠 Features
+
+- 💬 Chat with Gemini AI using natural language
+- ⚡ Real-time response rendering
+- 📱 Fully responsive UI (mobile + desktop)
+- 🎨 Clean, modern design with Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend framework  
+- **Tailwind CSS** – Styling and layout  
+- **Gemini API** – Powered by Google Generative AI  
+- **Netlify** – For deployment and hosting
+
+---
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 # React + Vite
 
