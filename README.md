@@ -1,4 +1,5 @@
 ![image alt](https://github.com/kaif-2407/Gemini-Clone/blob/deb8087c58cc8601390a6aeabb4909620b6d9328/Screenshot%202025-04-29%20181125.png)
+![image alt](https://github.com/kaif-2407/Gemini-Clone/blob/060a06c9ef398bf4a40dfa610f9263b01bfbc108/Screenshot%202025-04-29%20181223.png)
 
 
 
