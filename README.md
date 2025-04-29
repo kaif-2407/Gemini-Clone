@@ -1,3 +1,8 @@
+![image alt](https://github.com/kaif-2407/Gemini-Clone/blob/deb8087c58cc8601390a6aeabb4909620b6d9328/Screenshot%202025-04-29%20181125.png)
+
+
+
+
 # 🌟 Gemini Clone
 
 A **Gemini-like AI Assistant** built using **React**, **Tailwind CSS**, and the **Gemini API** by Google.  
